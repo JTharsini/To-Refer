@@ -1,0 +1,2 @@
+https://github.com/cinemast/libjson-rpc-cpp : need to try this
+https://github.com/libyal/libevtx : and this
