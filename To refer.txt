@@ -4,3 +4,5 @@ https://github.com/softwaremill/codebrag : need to refer this for nodejs, angula
 
 
 https://www.geeksforgeeks.org/asynchronous-synchronous-callbacks-java/
+https://dev.to/monknomo/make-an-immutable-object---in-java-480n
+https://www.journaldev.com/129/how-to-create-immutable-class-in-java
