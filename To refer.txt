@@ -7,3 +7,4 @@ https://www.geeksforgeeks.org/asynchronous-synchronous-callbacks-java/
 https://dev.to/monknomo/make-an-immutable-object---in-java-480n
 https://www.journaldev.com/129/how-to-create-immutable-class-in-java
 https://dzone.com/articles/ioc-vs-di
+https://dzone.com/storage/assets/7260948-dzone-rc234-microservicesinjava.pdf
