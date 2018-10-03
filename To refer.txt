@@ -1,3 +1,6 @@
 https://github.com/cinemast/libjson-rpc-cpp : need to try this
 https://github.com/libyal/libevtx : and this
 https://github.com/softwaremill/codebrag : need to refer this for nodejs, angular js
+
+
+https://www.geeksforgeeks.org/asynchronous-synchronous-callbacks-java/
