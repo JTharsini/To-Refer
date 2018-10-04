@@ -9,3 +9,5 @@ https://www.journaldev.com/129/how-to-create-immutable-class-in-java
 https://dzone.com/articles/ioc-vs-di
 https://dzone.com/storage/assets/7260948-dzone-rc234-microservicesinjava.pdf
 https://portal.aws.amazon.com/billing/signup?redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start
+
+https://www.geeksforgeeks.org/socket-programming-in-java/
