@@ -11,3 +11,4 @@ https://dzone.com/storage/assets/7260948-dzone-rc234-microservicesinjava.pdf
 https://portal.aws.amazon.com/billing/signup?redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start
 
 https://www.geeksforgeeks.org/socket-programming-in-java/
+https://en.wikipedia.org/wiki/List_of_Java_APIs
